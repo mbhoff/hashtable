@@ -12,23 +12,10 @@
 /*************************************************************************//**
  * @file 
  *
- * @mainpage Program #3 - Zipf's Law
+ * @mainpage Zipf's Law
  * 
- * @section course_section Course Information 
- *
  * @author Mark, Other team member
  * 
- * @date November 17, 2015
- * 
- * @par Professor: 
- *         Dr. Hinker
- * 
- * @par Course: 
- *         CSC300 - M001 -  10 a.m.
- * 
- * @par Location: 
- *         McLaury - 313
- *
  * @section program_section Program Information 
  * 
  * @details This program tests Zipf's Law, which states that
